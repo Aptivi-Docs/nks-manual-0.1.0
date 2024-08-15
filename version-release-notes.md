@@ -1,10 +1,8 @@
 ---
-description: Futuristic magic!
+description: This page lists all versions in the 0.1.0.x series
 ---
 
-# 🔮 v0.1.x.x series
-
-<figure><img src="../../.gitbook/assets/001-welcome.png" alt=""><figcaption></figcaption></figure>
+# 🗞️ Version Release Notes
 
 This kernel series is the first kernel series that actually – and finally – showed seriousness about the beta version of the simulator as outlined in the ancient product documentation dating back to the first ever release, 0.0.1. It added a staggering amount of features that you can't even count! It also brought in massive amounts of improvements to the point that it has been re-imagined like never before!
 
@@ -55,8 +53,8 @@ The following changes have been made:
 * <mark style="color:green;">Added features that enhance your kernel modding experience</mark>
 * <mark style="color:green;">Added kernel addons that are uninstallable</mark>
 * <mark style="color:green;">Added many more features and surprises</mark>
-* <mark style="color:yellow;">New splash,</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">`welcome`</mark><mark style="color:yellow;">, enabled by default</mark>
-* <mark style="color:yellow;">New screensaver,</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">`matrixbleed`</mark><mark style="color:yellow;">, enabled by default</mark>
+* <mark style="color:yellow;">New splash,</mark> <mark style="color:yellow;">`welcome`</mark><mark style="color:yellow;">, enabled by default</mark>
+* <mark style="color:yellow;">New screensaver,</mark> <mark style="color:yellow;">`matrixbleed`</mark><mark style="color:yellow;">, enabled by default</mark>
 * [<mark style="color:yellow;">New documentation added</mark>](https://aptivi.gitbook.io/nitrocid-ks-manual)
 * <mark style="color:yellow;">Overall revamped look</mark>
 * <mark style="color:yellow;">Settings is now easier to use</mark>
@@ -68,30 +66,77 @@ The following changes have been made:
 * <mark style="color:red;">Removed kernel 16 colors support</mark>
 * <mark style="color:red;">Removed legacy features</mark>
 
-#### Stable manuals
+### Version 0.1.0.1
 
-Available manuals for below versions:
+The following changes have been made:
 
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/8WTX95xf6ky54JzTCqMT/" %}
-[Nitrocid KS v0.1.0 - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/8WTX95xf6ky54JzTCqMT/)
-{% endcontent-ref %}
+* <mark style="color:yellow;">Fixed last-minute bugs caught in the project documentation phase</mark>
+* <mark style="color:yellow;">General improvements</mark>
 
-#### Beta and RC manuals
+### Version 0.1.0.2
 
-Available manuals for below beta and RC versions:
+The following changes have been made:
 
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/3mRuFh68DHtbpLXUGDzq/" %}
-[Nitrocid KS v0.1.0 Release Candidate - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/3mRuFh68DHtbpLXUGDzq/)
-{% endcontent-ref %}
+* <mark style="color:yellow;">Fixed a security bug related to the Git addon</mark>
+* <mark style="color:yellow;">General improvements</mark>
 
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/kfeoFVXA0LPgBamKZDG4/" %}
-[Nitrocid KS v0.1.0 Beta 3 - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/kfeoFVXA0LPgBamKZDG4/)
-{% endcontent-ref %}
+### Version 0.1.0.3
 
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RoaqpM3GSf9vXxRAagbV/" %}
-[Nitrocid KS v0.1.0 Beta 2 - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RoaqpM3GSf9vXxRAagbV/)
-{% endcontent-ref %}
+The following changes have been made:
 
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Ad5vIFTQSlbQ4N2BpB8m/" %}
-[Nitrocid KS v0.1.0 Beta 1 - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Ad5vIFTQSlbQ4N2BpB8m/)
-{% endcontent-ref %}
+* <mark style="color:yellow;">Fixed bugs related to the selection style</mark>
+* <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.0.4
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Fixed kernel panic caused by the notification system</mark>
+* <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.0.5
+
+The following changes have been made:
+
+* <mark style="color:green;">Added config migration!</mark>
+* <mark style="color:yellow;">Fixed a regression in the alias command</mark>
+
+### Version 0.1.0.6
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Used embedded resources</mark>
+* <mark style="color:yellow;">Fixed Chocolatey batch files</mark>
+* <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.0.7
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Fixed translation of descriptions in the config finder</mark>
+
+### Version 0.1.0.8
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated libraries</mark>
+* <mark style="color:yellow;">Improved settings migration to support screensavers</mark>
+* <mark style="color:yellow;">Fixed migration not working for integer-based settings</mark>
+
+### Version 0.1.0.9
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements</mark>
+
+### Out-of-band servicing releases
+
+The below versions were released to incorporate general improvements:
+
+* v0.1.0.10 - July 21st, 2024
+* v0.1.0.11 - July 25th, 2024
+* v0.1.0.12 - July 28th, 2024
+* v0.1.0.13 - July 29th, 2024
+* v0.1.0.14 - August 9th, 2024
+* v0.1.0.15 - August 12th, 2024
+* v0.1.0.16 - August 15th, 2024
