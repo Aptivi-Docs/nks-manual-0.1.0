@@ -131,12 +131,8 @@ The following changes have been made:
 
 ### Out-of-band servicing releases
 
-The below versions were released to incorporate general improvements:
+The below versions were released to incorporate general improvements, but you can see them below:
 
-* v0.1.0.10 - July 21st, 2024
-* v0.1.0.11 - July 25th, 2024
-* v0.1.0.12 - July 28th, 2024
-* v0.1.0.13 - July 29th, 2024
-* v0.1.0.14 - August 9th, 2024
-* v0.1.0.15 - August 12th, 2024
-* v0.1.0.16 - August 15th, 2024
+{% content-ref url="https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions" %}
+[Supported Versions](https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions)
+{% endcontent-ref %}
