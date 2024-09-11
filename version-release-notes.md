@@ -131,7 +131,7 @@ The following changes have been made:
 
 ### Out-of-band servicing releases
 
-The below versions were released to incorporate general improvements, but you can see them below:
+Out-of-band versions are released to incorporate general improvements that you can see them below:
 
 {% content-ref url="https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions" %}
 [Supported Versions](https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions)
