@@ -1,8 +1,9 @@
 ---
 description: This page lists all versions in the 0.1.0.x series
+icon: newspaper
 ---
 
-# 🗞️ Version Release Notes
+# Version Release Notes
 
 This kernel series is the first kernel series that actually – and finally – showed seriousness about the beta version of the simulator as outlined in the ancient product documentation dating back to the first ever release, 0.0.1. It added a staggering amount of features that you can't even count! It also brought in massive amounts of improvements to the point that it has been re-imagined like never before!
 
