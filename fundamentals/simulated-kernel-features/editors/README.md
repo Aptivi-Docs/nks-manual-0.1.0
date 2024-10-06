@@ -1,8 +1,9 @@
 ---
 description: Do you want to edit text?
+icon: pen
 ---
 
-# ✏ Editors
+# Editors
 
 <figure><img src="../../../.gitbook/assets/Beta3-016-Editor.png" alt=""><figcaption></figcaption></figure>
 

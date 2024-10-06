@@ -1,8 +1,9 @@
 ---
 description: Here's a list of analyzer diagnostics.
+icon: chart-mixed
 ---
 
-# 📈 Analyzing your Mod
+# Analyzing your Mod
 
 Analyzers, in .NET, are tools that allow you to check the quality of your code and to fix common design pitfalls in your code. These fixes typically tailor the use of better features or the removal of unnecessary code.
 
@@ -29,12 +30,11 @@ In order to install the Visual Studio-based analyzer for Nitrocid mods, follow t
     <figure><img src="../../../.gitbook/assets/091-modanalyzers.png" alt=""><figcaption></figcaption></figure>
 3.  Once it gets downloaded, close all Visual Studio windows until this window appears
 
-    <figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image%20(80).png" alt=""><figcaption></figcaption></figure>
 4.  Click on Modify and wait until this window shows up
 
-    <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
-5.  Start working on your mod, and you'll see `NKS` analyzers.\
-
+    <figure><img src="../../../.gitbook/assets/image%20(81).png" alt=""><figcaption></figcaption></figure>
+5.  Start working on your mod, and you'll see `NKS` analyzers.\\
 
     <figure><img src="../../../.gitbook/assets/093-modanalyzers.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,8 +44,7 @@ In case you can't use Visual Studio-based analyzer for your mods, you can use th
 
 1. Open the command prompt
 2. Go to the directory where the standalone analyzer is located. Use `cd` to change the directory.
-3.  Run `dotnet Nitrocid.StandaloneAnalyzer.dll path/to/mod.sln`\
-
+3.  Run `dotnet Nitrocid.StandaloneAnalyzer.dll path/to/mod.sln`\\
 
     <figure><img src="../../../.gitbook/assets/094-modanalyzers.png" alt=""><figcaption></figcaption></figure>
 

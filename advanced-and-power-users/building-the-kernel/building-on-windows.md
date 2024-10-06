@@ -1,8 +1,9 @@
 ---
 description: Build the simulator on Windows!
+icon: windows
 ---
 
-# 🪟 Building on Windows
+# Building on Windows
 
 In Windows systems, you have two ways to build the simulator: one if you use Visual Studio 2022 or later, and one if you prefer doing everything via the command-line. Make sure that your computer has the following dependencies:
 
@@ -28,8 +29,7 @@ Once you have Visual Studio installed with at least the .NET 8.0 SDK and the .NE
    ![](../../.gitbook/assets/073-vsbuild.png)
 5. Press `Start` or press `Build` » `Build Solution` to build\
    <img src="../../.gitbook/assets/074-vsbuild.png" alt="" data-size="original">
-6.  Navigate to the build output folder, `KSBuild`, and double click on the `Nitrocid.exe` file\
-
+6.  Navigate to the build output folder, `KSBuild`, and double click on the `Nitrocid.exe` file\\
 
     <figure><img src="../../.gitbook/assets/075-vsbuild.png" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,6 @@ If you are a hardcore command-line user or if you prefer using the command-line,
 2. Execute `git clone https://github.com/Aptivi/NitrocidKS.git`
 3. Navigate to the cloned repository, `NitrocidKS`
 4. Execute `dotnet restore` and `dotnet build`
-5.  After building is done, run `dotnet run` on the `Nitrocid.csproj` file like so:\
-
+5.  After building is done, run `dotnet run` on the `Nitrocid.csproj` file like so:\\
 
     <figure><img src="../../.gitbook/assets/076-vsbuild.png" alt=""><figcaption></figcaption></figure>

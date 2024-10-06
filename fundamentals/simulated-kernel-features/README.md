@@ -1,6 +1,6 @@
 ---
-description: Ordered list of simulated kernel flow
 icon: star
+description: Ordered list of simulated kernel flow
 ---
 
 # Simulated Kernel Features
@@ -45,8 +45,8 @@ The buttons below lists some of the features that blow your mind.
 [screensavers.md](screensavers.md)
 {% endcontent-ref %}
 
-{% content-ref url="bootable-simulation.md" %}
-[bootable-simulation.md](bootable-simulation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 In addition to the above features, consult the below page to get some of the extra features:
