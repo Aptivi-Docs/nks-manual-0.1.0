@@ -1,11 +1,11 @@
 ---
-description: Connecting to your computer remotely...
 icon: house-laptop
+description: Connecting to your computer remotely...
 ---
 
 # SSH Connection
 
-<figure><img src="../../../../.gitbook/assets/035-ssh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/035-ssh.png" alt=""><figcaption></figcaption></figure>
 
 The SSH protocol is a network protocol that allows you to interact with a remote computer in a secure way, such as remote controlling them, transferring files, and so on. It was engineered by the Internet Engineering Task Force (IETF) to facilitate this task.
 

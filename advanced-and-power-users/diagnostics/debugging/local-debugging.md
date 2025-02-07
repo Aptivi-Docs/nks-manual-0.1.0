@@ -1,6 +1,6 @@
 ---
-description: Debugging the kernel locally
 icon: bugs
+description: Debugging the kernel locally
 ---
 
 # Local Debugging
@@ -11,7 +11,7 @@ Locally debugging the kernel allows you to diagnose the kernel directly on the h
 
 The structure of the local debugging log is like the below picture:
 
-<figure><img src="../../../.gitbook/assets/097-debug.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/097-debug.png" alt=""><figcaption></figcaption></figure>
 
 The local debug logs contain two versions of formatting:
 

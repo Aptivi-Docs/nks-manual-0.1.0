@@ -1,6 +1,6 @@
 ---
-description: Here's a list of analyzer diagnostics.
 icon: chart-mixed
+description: Here's a list of analyzer diagnostics.
 ---
 
 # Analyzing your Mod
@@ -27,16 +27,16 @@ In order to install the Visual Studio-based analyzer for Nitrocid mods, follow t
 1. Open Visual Studio 2022 and open `Extensions` > `Manage Extensions...`.
 2.  Search for `Aptivi.NKSAnalyzers`
 
-    <figure><img src="../../../.gitbook/assets/091-modanalyzers.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/091-modanalyzers.png" alt=""><figcaption></figcaption></figure>
 3.  Once it gets downloaded, close all Visual Studio windows until this window appears
 
-    <figure><img src="../../../.gitbook/assets/image%20(80).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/image%20(80).png" alt=""><figcaption></figcaption></figure>
 4.  Click on Modify and wait until this window shows up
 
-    <figure><img src="../../../.gitbook/assets/image%20(81).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/image%20(81).png" alt=""><figcaption></figcaption></figure>
 5.  Start working on your mod, and you'll see `NKS` analyzers.\\
 
-    <figure><img src="../../../.gitbook/assets/093-modanalyzers.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/093-modanalyzers.png" alt=""><figcaption></figcaption></figure>
 
 ### Standalone Analyzer
 
@@ -46,7 +46,7 @@ In case you can't use Visual Studio-based analyzer for your mods, you can use th
 2. Go to the directory where the standalone analyzer is located. Use `cd` to change the directory.
 3.  Run `dotnet Nitrocid.StandaloneAnalyzer.dll path/to/mod.sln`\\
 
-    <figure><img src="../../../.gitbook/assets/094-modanalyzers.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/094-modanalyzers.png" alt=""><figcaption></figcaption></figure>
 
 ## Diagnostics
 

@@ -5,7 +5,7 @@ description: Ordered list of simulated kernel flow
 
 # Simulated Kernel Features
 
-<figure><img src="../../.gitbook/assets/002-shell.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/002-shell.png" alt=""><figcaption></figcaption></figure>
 
 Within the simulated kernel, there are big amounts of features that actually excite you. As new versions get released, new and spectacular features get added.
 

@@ -1,11 +1,11 @@
 ---
-description: Your coffee is ready!
 icon: mug-hot
+description: Your coffee is ready!
 ---
 
 # Caffeine
 
-<figure><img src="../../../../.gitbook/assets/024-caffeine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/024-caffeine.png" alt=""><figcaption></figcaption></figure>
 
 If you need to be notified whether your coffee is ready after a specified time, you'll need to use this program to facilitate this task. You can use the caffeine command to provide it with either the number of seconds until your caffeine is ready or the caffeine name, which will be provided with the below table:
 

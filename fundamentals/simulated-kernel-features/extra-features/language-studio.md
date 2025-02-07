@@ -1,11 +1,11 @@
 ---
-description: Making your own language...
 icon: earth-americas
+description: Making your own language...
 ---
 
 # Language Studio
 
-<figure><img src="../../../.gitbook/assets/043-langstudio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/043-langstudio.png" alt=""><figcaption></figcaption></figure>
 
 You can make your own language using the language studio, which allows you to make your own kernel translation strings file for your own custom language. You can usually use this program to translate the kernel to your own native language. However, translation takes a lot of time, so you'll need to have some patience and focus.
 
@@ -52,7 +52,7 @@ You can learn more about how to make this folder with this structure by going to
 
 Once you point `mklang` to a directory containing these files, you'll be taken to a screen that allows you to select an English string to be translated. You can select one of them by moving up or down and pressing `ENTER`. Then, you'll be provided with a list of languages and their translations like below:
 
-<figure><img src="../../../.gitbook/assets/164-langstudio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/164-langstudio.png" alt=""><figcaption></figcaption></figure>
 
 Select any of them, and you'll be presented with an input text telling you to enter a translation of the selected string in the selected language. Once done, press `ENTER`, and your translation will be placed.
 

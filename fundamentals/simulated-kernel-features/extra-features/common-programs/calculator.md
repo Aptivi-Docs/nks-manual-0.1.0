@@ -1,11 +1,11 @@
 ---
-description: Calculate your mathematical expressions
 icon: calculator
+description: Calculate your mathematical expressions
 ---
 
 # Calculator
 
-<figure><img src="../../../../.gitbook/assets/028-calc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/028-calc.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Nitrocid KS provides this feature as an addon.

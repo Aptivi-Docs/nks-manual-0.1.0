@@ -1,6 +1,6 @@
 ---
-description: Stopwatch for your favorite races, and timer to time yourself in some process
 icon: alarm-clock
+description: Stopwatch for your favorite races, and timer to time yourself in some process
 ---
 
 # Stopwatch and Timer
@@ -19,7 +19,7 @@ The simulated kernel attempts to simulate the two features, which can be invoked
 
 ### Timer
 
-<figure><img src="../../../../.gitbook/assets/036-timer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/036-timer.png" alt=""><figcaption></figcaption></figure>
 
 The simulated kernel powers the timer feature that, by default, sets the remaining time to just one minute. The controls are:
 
@@ -31,7 +31,7 @@ You can start the application up with the `timer` command.
 
 ### Stopwatch
 
-<figure><img src="../../../../.gitbook/assets/037-stopwatch.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/037-stopwatch.png" alt=""><figcaption></figcaption></figure>
 
 The simulated kernel also simulates the stopwatch functionality with the ability to set the laps. You can also reset the stopwatch. The controls are:
 

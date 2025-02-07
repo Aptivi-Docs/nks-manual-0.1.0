@@ -1,11 +1,11 @@
 ---
-description: Making your own themes easily.
 icon: palette
+description: Making your own themes easily.
 ---
 
 # Theme Studio
 
-<figure><img src="../../../.gitbook/assets/044-themestudio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/044-themestudio.png" alt=""><figcaption></figcaption></figure>
 
 The theme studio allows you to make your own custom themes easily by letting you edit every single color type. It provides you with a fully-fledged color wheel provided by Terminaux to ensure that what you select is accurate and tailored to your needs. You can simply run this program by running the `mktheme <name>` command.
 

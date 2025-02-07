@@ -1,11 +1,11 @@
 ---
-description: Changing how the hardware prober works
 icon: plug-circle-bolt
+description: Changing how the hardware prober works
 ---
 
 # Hardware Prober Drivers
 
-<figure><img src="../../../../.gitbook/assets/124-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/124-inner.png" alt=""><figcaption></figcaption></figure>
 
 The hardware prober driver is one of the supported driver types on Nitrocid KS. These drivers allow you to change how the hardware prober works, thus earning dynamic hardware prober improvements.
 

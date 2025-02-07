@@ -5,7 +5,7 @@ description: How to install Nitrocid KS on Windows
 
 # Windows
 
-<figure><img src="../../.gitbook/assets/001-welcome.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/001-welcome.png" alt=""><figcaption></figcaption></figure>
 
 Installing Nitrocid KS on Windows is pretty easy, but we recommend installing the simulator using the Chocolatey package manager.
 
@@ -73,6 +73,6 @@ If you're a tester to such software, please follow the steps on your Windows mac
 
 SmartScreen may detect that the Nitrocid and its associated executables may not pass the SmartScreen attestation. If this happens, you'll see the below page:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Nitrocid KS will not put your PC at risk (except if you downloaded a copy from an unofficial software distributor, or from an unofficial source other than our official GitHub releases found [here](https://github.com/Aptivi/NitrocidKS/releases), our Chocolatey page found [here](https://community.chocolatey.org/packages/KS), and our NuGet page found [here](https://www.nuget.org/packages/KS/)). Click on `More Info`, then click on `Run anyways`.

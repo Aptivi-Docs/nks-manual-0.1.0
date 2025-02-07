@@ -1,6 +1,6 @@
 ---
-description: How settings works.
 icon: wrench
+description: How settings works.
 ---
 
 # Kernel Settings
@@ -59,7 +59,7 @@ d-----          3/2/2024  11:29 AM                KSReminders
 
 ## Settings
 
-<figure><img src="../../../.gitbook/assets/101-settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/101-settings.png" alt=""><figcaption></figcaption></figure>
 
 The kernel provides an easy-to-use tool to seamlessly configure the kernel settings. It can be easily invoked using the `settings` command. Running this command alone provides you with the normal kernel settings. The two switches will change the mode:
 

@@ -1,11 +1,11 @@
 ---
-description: Transfer your files securely between your servers and your PC
 icon: lock-keyhole
+description: Transfer your files securely between your servers and your PC
 ---
 
 # SFTP Client
 
-<figure><img src="../../../../.gitbook/assets/004-sftp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/004-sftp.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As of 0.1.0, this feature has been moved to the kernel addons.

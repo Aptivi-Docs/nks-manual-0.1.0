@@ -1,11 +1,11 @@
 ---
-description: Changing how the encryption works
 icon: plug-circle-bolt
+description: Changing how the encryption works
 ---
 
 # Encryption Drivers
 
-<figure><img src="../../../../.gitbook/assets/122-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/122-inner.png" alt=""><figcaption></figcaption></figure>
 
 The encryption driver is one of the supported driver types on Nitrocid KS. These drivers allow you to change how the encryption works, thus earning dynamic encryption improvements.
 

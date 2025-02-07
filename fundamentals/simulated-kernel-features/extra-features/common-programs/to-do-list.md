@@ -1,11 +1,11 @@
 ---
-description: Your checkbook
 icon: clipboard-list-check
+description: Your checkbook
 ---
 
 # To-do List
 
-<figure><img src="../../../../.gitbook/assets/038-todo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/038-todo.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Nitrocid KS provides this feature as an addon.

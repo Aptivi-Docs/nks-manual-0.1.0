@@ -1,11 +1,11 @@
 ---
-description: Changing how the encoding works
 icon: plug-circle-bolt
+description: Changing how the encoding works
 ---
 
 # Encoding Drivers
 
-<figure><img src="../../../../.gitbook/assets/121-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/121-inner.png" alt=""><figcaption></figcaption></figure>
 
 The encoding driver is one of the supported driver types on Nitrocid KS. These drivers allow you to change how the encoding works, thus earning dynamic encoding based on your selected encoding algorithms.
 

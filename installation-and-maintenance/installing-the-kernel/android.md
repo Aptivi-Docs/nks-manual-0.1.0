@@ -5,7 +5,7 @@ description: How to install Nitrocid KS on Android
 
 # Android
 
-<figure><img src="../../.gitbook/assets/147-android.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/147-android.png" alt=""><figcaption></figcaption></figure>
 
 The tricky part is getting Nitrocid KS to run on Android phones and tablets, especially those that run the latest version of Android.
 

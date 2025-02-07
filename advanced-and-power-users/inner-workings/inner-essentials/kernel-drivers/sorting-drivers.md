@@ -1,11 +1,11 @@
 ---
-description: Changing how the sorting algorithms work
 icon: plug-circle-bolt
+description: Changing how the sorting algorithms work
 ---
 
 # Sorting Drivers
 
-<figure><img src="../../../../.gitbook/assets/128-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/128-inner.png" alt=""><figcaption></figcaption></figure>
 
 The sorting driver is one of the supported driver types on Nitrocid KS. These drivers allow you to change how the sorting works, thus earning dynamic sorting improvements, such as providing fast and efficient array sorting code.
 

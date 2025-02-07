@@ -1,11 +1,11 @@
 ---
-description: Coloring things...
 icon: palette
+description: Coloring things...
 ---
 
 # Theme Internals
 
-<figure><img src="../../../.gitbook/assets/135-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/135-inner.png" alt=""><figcaption></figcaption></figure>
 
 Nitrocid KS first came with color theme support in the fourth major version, 0.0.4, but only supported 16 colors defined by the `ConsoleColor` enumeration. Since then, various themes have been added to the point that we once reached 95+ themes before going down to 65+ themes.
 
@@ -192,7 +192,7 @@ The two below sections explains the two previews.
 
 ### Simple previews
 
-<figure><img src="../../../.gitbook/assets/137-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/137-inner.png" alt=""><figcaption></figcaption></figure>
 
 The simple theme preview shows you a wrapped list of color types and their examples, colored with the foreground color in the placeholder text. You can get access to this preview by calling these functions:
 
@@ -207,7 +207,7 @@ Each of these two functions get a list of kernel color types known by the color 
 
 ### Interactive preview
 
-<figure><img src="../../../.gitbook/assets/136-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/136-inner.png" alt=""><figcaption></figcaption></figure>
 
 The interactive theme preview shows you a full-screen colored box that changes its color according to the selected kernel color type and the list of theme colors. You can get access to this preview by calling these functions:
 

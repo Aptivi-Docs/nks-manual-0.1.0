@@ -1,6 +1,6 @@
 ---
-description: Describes about the inner workings of the kernel language feature
 icon: earth-africa
+description: Describes about the inner workings of the kernel language feature
 ---
 
 # Multilingual Kernel
@@ -9,7 +9,7 @@ The languages were introduced to the kernel to allow users who don't natively sp
 
 ## JSON file format
 
-<figure><img src="../../../.gitbook/assets/114-lang.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/114-lang.png" alt=""><figcaption></figcaption></figure>
 
 The kernel languages use the JSON localization files that store the following information:
 

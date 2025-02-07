@@ -1,6 +1,6 @@
 ---
-description: Features that are available only in the kernel addons
 icon: sparkles
+description: Features that are available only in the kernel addons
 ---
 
 # Extra Features
@@ -54,13 +54,13 @@ In case the `getaddons` command didn't work properly, you'll have to resort to i
 
 1.  Download an `-addons.zip` file that corresponds to your kernel version from [this page](https://github.com/Aptivi/NitrocidKS/releases) and open your favorite archive manager.\\
 
-    <figure><img src="../../../.gitbook/assets/161-addonszip.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/161-addonszip.png" alt=""><figcaption></figcaption></figure>
 2.  Make a new folder under the Nitrocid KS binary folder called `Addons`.\\
 
-    <figure><img src="../../../.gitbook/assets/162-addonszip.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/162-addonszip.png" alt=""><figcaption></figcaption></figure>
 3.  Extract all the folders to the `Addons` folder.\\
 
-    <figure><img src="../../../.gitbook/assets/163-addonszip.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/163-addonszip.png" alt=""><figcaption></figcaption></figure>
 4. Run Nitrocid KS and verify that the addon commands work.
 
 ## What are addons?
@@ -69,6 +69,6 @@ Addons are program extension libraries that extend the functionality of a progra
 
 In addition, Nitrocid KS provides an addon system that loads all the kernel addons that are built with the Nitrocid project. Mods are the second kind of kernel addons that have lesser privileges, but can be made easily by you. The documentation provides you instructions on how to make your own mod (not zero-code!) using the page below:
 
-{% content-ref url="../../../advanced-and-power-users/kernel-modifications/build-your.../your-mod.md" %}
-[your-mod.md](../../../advanced-and-power-users/kernel-modifications/build-your.../your-mod.md)
+{% content-ref url="../../../advanced-and-power-users/kernel-modifications/your-mod.md" %}
+[your-mod.md](../../../advanced-and-power-users/kernel-modifications/your-mod.md)
 {% endcontent-ref %}

@@ -1,11 +1,11 @@
 ---
-description: Manage your messages with this mail client
 icon: envelope
+description: Manage your messages with this mail client
 ---
 
 # Mail Client
 
-<figure><img src="../../../../.gitbook/assets/007-mail.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/007-mail.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As of 0.1.0, this feature has been moved to the kernel addons.

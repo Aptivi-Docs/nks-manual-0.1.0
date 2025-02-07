@@ -5,7 +5,7 @@ description: How to install Nitrocid KS on Linux
 
 # Linux
 
-<figure><img src="../../.gitbook/assets/146-linux.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/146-linux.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**We now officially support**</mark> [<mark style="color:blue;">**Arch Linux**</mark>](https://archlinux.org/) <mark style="color:blue;">**as the distro for 64-bit (AMD + Intel and ARM) processors!**</mark>

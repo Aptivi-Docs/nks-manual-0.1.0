@@ -1,11 +1,11 @@
 ---
-description: You have several chances to input the right letter, or you're hung!
 icon: square-a
+description: You have several chances to input the right letter, or you're hung!
 ---
 
 # Hangman
 
-<figure><img src="../../../../.gitbook/assets/009-hangman.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/009-hangman.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As of 0.1.0, this feature has been moved to the kernel addons.

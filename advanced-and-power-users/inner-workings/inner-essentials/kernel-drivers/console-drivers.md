@@ -1,11 +1,11 @@
 ---
-description: Changing how the console works
 icon: plug-circle-bolt
+description: Changing how the console works
 ---
 
 # Console Drivers
 
-<figure><img src="../../../../.gitbook/assets/119-inner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/119-inner.png" alt=""><figcaption></figcaption></figure>
 
 The console driver is one of the supported driver types on Nitrocid KS. These drivers allow you to change how the console works, thus earning dynamic console improvements, such as providing better workarounds to perform certain console functions, providing code to speed up the console, and much more.
 

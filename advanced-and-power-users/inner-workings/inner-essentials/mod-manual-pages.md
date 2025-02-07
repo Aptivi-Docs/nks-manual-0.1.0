@@ -1,6 +1,6 @@
 ---
-description: Read the manual!
 icon: book-open
+description: Read the manual!
 ---
 
 # Mod Manual Pages
@@ -54,7 +54,7 @@ This is my mod documentation, which hosts the documentation and technical inform
 
 ## Manual page viewer
 
-<figure><img src="../../../.gitbook/assets/148-modmanual.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/Aptivi-Stable-Docs/nks-manual-0.1.0/blob/main/.gitbook/assets/148-modmanual.png" alt=""><figcaption></figcaption></figure>
 
 The manual page viewer can be invoked with the `modmanual` command, which takes an argument that should be a valid kernel mod name.
 
