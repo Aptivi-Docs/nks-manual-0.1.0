@@ -57,6 +57,8 @@ In the `Keys` variable, it contains an array of objects containing the settings 
 
 The variables that can be omitted are specified below:
 
+* `Masked`: Specifies whether the string is a secret or not (shows as asterisks when editing)
+  * The type of this variable is a **boolean**
 * `IsInternal`: Specifies whether the variable is internal (can be omitted)
   * The type of this variable is a **boolean**
 * `IsEnumerable`: If the variable is an enumerable that can be set, set to `true`
@@ -85,6 +87,7 @@ In special cases, each type might require different variables to be set before t
 * `SDouble`
 * `SPreset`
 * `SFiglet`
+* `SMultivar`
 
 Only the types that require additional configuration are listed below. The below variables must be set to work with these types:
 
@@ -229,6 +232,30 @@ The format is as below:
     "MaximumValue": 10
 }
 ```
+
+### `SMultivar`
+
+This type is to group multiple settings entries, which are indicated in an array value of the `Variables` key in the entries JSON file. The format is as below:
+
+```json
+{
+    "Name": "Kernel color schemes",
+    "Type": "SMultivar",
+    "Description": "This allows you to set multiple kernel color schemes",
+    "Variables": [
+        {
+            "Name": "User Name Shell Color",
+            "Type": "SColor",
+            "Variable": "UserNameShellColor"
+        },
+        (...)
+    ]
+}
+```
+
+{% hint style="info" %}
+You can nest the `SMultivar` entries, since the `Variables` value gets deserialized into an array of the settings entries instance used internally, and the settings application takes this into account.
+{% endhint %}
 
 ## User Configuration
 
